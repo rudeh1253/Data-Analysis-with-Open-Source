@@ -1,0 +1,37 @@
+[
+    {
+        "student_id":101,
+        "database_score":85,
+        "cloudcomputing_score":78,
+        "python_score":92,
+        "watch_rate":0.95
+    },
+    {
+        "student_id":102,
+        "database_score":76,
+        "cloudcomputing_score":82,
+        "python_score":78,
+        "watch_rate":0.87
+    },
+    {
+        "student_id":103,
+        "database_score":92,
+        "cloudcomputing_score":95,
+        "python_score":85,
+        "watch_rate":0.99
+    },
+    {
+        "student_id":104,
+        "database_score":63,
+        "cloudcomputing_score":70,
+        "python_score":75,
+        "watch_rate":0.8
+    },
+    {
+        "student_id":105,
+        "database_score":88,
+        "cloudcomputing_score":84,
+        "python_score":91,
+        "watch_rate":0.93
+    }
+]
